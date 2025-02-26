@@ -1,6 +1,0 @@
-A → Integration Test
-B → Unit Test
-def test__with_stub_cart → Stub Test
-def calculate_total → Unit Test
-
-ты варики не скинул, вроде так должно быть

@@ -1,0 +1,15 @@
+N=100, alpha=0.1, lambda=0.1
+Cost function: 0.28
+Max theta value: 0.79
+
+N=1000, alpha=0.2, lambda=1
+Cost function: 0.16
+Max theta value: 2.29
+
+N=10000, alpha=0.3, lambda=10
+Cost function: 0.33
+Max theta value: 1.0
+
+Number of ones in first 10 predictions: 6
+
+тоже сама делала

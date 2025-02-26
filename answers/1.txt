@@ -1,0 +1,10 @@
+Mean (SRS) : 50.6
+Standard Error (SRS) : 6.89
+95% CI Upper (SRS): 64.66
+95% CI Lower (SRS): 36.54
+Mean (Clustering): 50.6
+Standard Error (Clustering): 7.62
+d-value: 1.11
+d-squared: 1.23
+roh: 1.25
+Effective Sample Size (N eff): 5.57

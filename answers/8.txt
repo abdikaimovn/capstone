@@ -1,0 +1,17 @@
+1. private String strCustomerName; → Hungarian
+2. public Customer(int customerID, String customerName, String email) → Pascal
+3. public String getEmail() { return strEmail; } → Hungarian
+4. private String strSKU; → Acronym
+5. private Product prodItem; → Hungarian
+6. public void AddOrderItem(OrderItem orderItem) → Pascal
+7. private String strOTP; → Acronym
+
+simple format:
+
+Hungarian
+Pascal
+Hungarian
+Acronym
+Hungarian
+Pascal
+Acronym

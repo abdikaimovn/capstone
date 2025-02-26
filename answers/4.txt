@@ -1,0 +1,8 @@
+a4 = [0.950, 0.050]
+a3.min() = 0.050
+W4.max() = 0.45
+W3.min() = 0.18
+Loss after 10000 epochs = 0.050
+NNN cannot define class
+
+// gpt

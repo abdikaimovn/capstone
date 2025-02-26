@@ -1,6 +1,7 @@
-A → Integration Test
-B → Unit Test
-def test__with_stub_cart → Stub Test
-def calculate_total → Unit Test
+A – System Testing
+B – Integration Test
+test_with_stub_cart – Top-Down Testing
+calculate_total – Regression Test
 
-ты варики не скинул, вроде так должно быть
+
+гпт так говорит

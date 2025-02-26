@@ -1,0 +1,20 @@
+Epoch 0, Loss: 0.499
+Epoch 1000, Loss: 0.033
+Epoch 2000, Loss: 0.023
+Epoch 3000, Loss: 0.019
+Epoch 4000, Loss: 0.016
+Epoch 5000, Loss: 0.014
+Epoch 6000, Loss: 0.013
+Epoch 7000, Loss: 0.012
+Epoch 8000, Loss: 0.011
+Epoch 9000, Loss: 0.010
+a4=[ 0.990, 0.010 ]
+a3.min() = -0.999
+W4.max() = 1.06
+W3.min() = -2.81
+Loss after 10000 epochs: 0.010
+
+прям жб сама писала
+
+
+
